@@ -1,0 +1,22 @@
+NVL-HTML-P8a
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Prueba errónea de bloque y en linea</title></head>
+<body><ol><li>
+<img srdc="imagenes\hola.jpg" alt="hola">
+</li></body></html>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Prueba correcta de bloque y en linea</title>
+</head>
+<body>
+<ol>
+<li><img srdc="imagenes\hola.jpg" alt="hola"></li>
+</body>
+</html>
